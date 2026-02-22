@@ -1,0 +1,51 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+header {
+    background: #d4af37;
+    padding: 15px;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.hero {
+    padding: 40px;
+    background: white;
+}
+
+.calculator {
+    padding: 30px;
+    background: #fff8dc;
+}
+
+input, textarea {
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 15px;
+    background: #d4af37;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    padding: 10px;
+    background: #222;
+    color: white;
+}
+
+.form {
+    margin-top: 30px;
+}
