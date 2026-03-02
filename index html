@@ -47,5 +47,9 @@
 </footer>
 
 <script src="calculator.js"></script>
+
+<h2>Contact Us</h2>
+<p>Email: <a href="mailto:wecare@bajajfinserv.in">wecare@bajajfinserv.in</a></p>
 </body>
+
 </html>
